@@ -25,7 +25,7 @@
                 <div class="modulo cinza">
                     <h3>Modulo 01</h3>
                         <ul>
-                            <li><a href="#">Exercicio A</a></li>
+                            <li><a href="exercicio.php">Exercicio A</a></li>
                             <li><a href="#">Exercicio A</a></li>
                             <li><a href="#">Exercicio A</a></li>
                         </ul>   
@@ -138,7 +138,7 @@
         </div>
     </main>
     <footer class="rodape">
-        Site construido por @Wanderley de Melo
+        Site construido por ©Wanderley de Melo - <?= date('Y'); ?>
     </footer>
 
 </body>
